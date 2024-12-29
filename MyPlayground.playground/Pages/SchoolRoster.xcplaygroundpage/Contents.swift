@@ -9,7 +9,7 @@ var artHistory: Set = ["Samantha", "Vanessa", "Aldrian", "Cynara", "Kenny", "Dec
 var englishLiterature: Set = ["Gabby", "Jasmine", "Alex", "Alif", "Aldrian", "Adam", "Angela"]
 var computerScience: Set = ["Galina", "Kenny", "Sonny", "Alex", "Skyla"]
 
-// Write your code below 🍎
+
 
 var allStudents = spanish101.union(german101).union(advancedCalculus).union(artHistory).union(englishLiterature).union(computerScience)
 
